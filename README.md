@@ -21,4 +21,13 @@
    <img aliag="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
- ❤️ Apaixonada por tecnologia niciei minha trajetória profissional no segmento de BPO com foco nos processos de governança de TI, gestão de acessos e soluções de TI, exercendo atividades de rotinas para melhorias, com conhecimento em sistemas operacionais Windows/Linux, atuando no em todo gerenciamento Microsoft Office, Windows Server, SQL Server, Active Directory. Responsável também pela atualização, reformulação e manutenção de todos os sistemas corporativos internos da empresa, alimentando as bases destes via SQL. Elaboração de relatórios de padronização de processos, sempre de acordo com as políticas de seguranças para manter o ambiente de TI muito mais seguro e eficaz para todos da organização. Após isso surgiu uma oportunidade para trabalhar com programação Java, como programadora, venho trabalhando com desenvolvimento de sistemas corporativos de grande porte implementando soluções, novas funcionalidades e correção de bugs."
+ ❤️Profissional com perfil multidisciplinar e ampla experiência em projetos de automação de processos para grandes clientes, focada em garantir eficiência operacional e soluções de software alinhadas às necessidades de tecnologia da informação. Especializada em controle de acesso e segurança cibernética, com experiência na implementação de políticas e procedimentos que atendem a rigorosos padrões de segurança. 
+
+Colaboração ativa com equipes de negócios e de TI para definir escopo e objetivos claros, juntamente com uma sólida compreensão de linguagem de programação, frameworks e ferramentas de teste.
+
+Experiência adquirida em suporte técnico de alto nível, resolvendo problemas de hardware, software e rede, bem como na configuração e manutenção de sistemas operacionais e dispositivos. Aplicação das melhores práticas de segurança da informação, mantendo-se atualizado com as últimas tendências em tecnologia da informação.
+
+Habilidades sólidas de comunicação e uma abordagem proativa permitem a colaboração efetiva em equipes, assegurando a satisfação dos usuários e o sucesso dos projetos.
+
+Informática e Sistemas
+• MS Office | Microsiga | Power Bi | WIndows/Linux | Windows Server | SQL Server | Active Directory | Backend | Hibernate | Spring | Boot | Postgres | Dbeaver | Html | Css | Javascript | JSF | Primefaces | Tomcat | Scrum | Kanban | Docker | Mobaxterm | Wildfly | Jira | Github | Rest Apis | Framework Bancos de Dados | Relacionais.
